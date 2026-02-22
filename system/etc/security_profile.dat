@@ -1,0 +1,91 @@
+Mon, 12 Oct 2020 18:58:37 +0900
+:TZ_DRM
+Number of modules
+9
+system/bin/mediaserver
+2976938ac6730396db2b9fcced7915281ff36132d7031051ee7df05e4fddd6fb
+system/bin/drmserver
+eac4544658a01be97dd18045e2421950bbead9813311c0e94ada010556fd3bc2
+system/lib/libstagefright.so
+c3cabfa8ce197e1cef9439dcfe7a52b0735764e3946e59bd2d778fdf975f2e3e
+system/lib/libdrmframework.so
+d6dc374c624d077f1e56a3e2984e679e5060ac3ebb63dc00d50d4d5af048d522
+system/lib/libdrmframework_jni.so
+7f73792471fe8ac5f782b89a43ab0e869d042fe7bdd20d0adf762605de9c979e
+system/lib/omx/libOMX.Exynos.AVC.Decoder.so
+d17c06acdd673ad538f4772738ce5c2cf8ff7543b7cc36794e487178b819da53
+system/lib/libExynosOMX_Core.so
+cbac8d350241b50de6440e9d22c911610d6fe7a6b647640634b34cb9d2232bde
+system/lib/libExynosOMX_Resourcemanager.so
+757e0ed0a4f2721612e1a2829750f7084a2b356e32cab4afa52492eb81aee6ff
+system/vendor/firmware/mfc_fw.bin
+7fd69a61aa34e2c099d72fe559509130a1bbbda66f894e82413e81742501d378
+:FIDD
+Number of modules
+3
+system/vendor/lib/libMcClient.so
+76f6a67b86d753f1e8b5f4b9721d5e7e5cd7eafd833ed5f6665bf49a68074cef
+system/vendor/lib/libMcRegistry.so
+f1d6c3df96f4dca5692ba72a65cd2e0114da73895ad04f294f764b2c47cc893d
+system/vendor/bin/mcDriverDaemon
+11769b63db723acc87c95a86f974e38aca8a74a2d6dabc81100e2cf8f654fb7e
+:CC
+Number of modules
+25
+system/bin/app_process
+fffbf12e0a5f85978515d3056d622b368724606ca44f72d12000b045a5fd4626
+system/bin/dalvikvm
+b3ce0b7607c099a20a4baf404bfd6cf6d8c02cc29c2c6402badcd85fde677f84
+system/vendor/bin/mcDriverDaemon
+11769b63db723acc87c95a86f974e38aca8a74a2d6dabc81100e2cf8f654fb7e
+system/lib/libcrypto.so
+dffa5f39c3db590466dcb8a2e6cb7857299a30749ae8c27f1b1d48460c5f6812
+system/lib/libjavacrypto.so
+47e0546cd0f8e3c4633b7ac71e1d3cbdfdcf2f8c1bec6387283d3a9a1254a0d0
+system/lib/libssl.so
+49e05b2ebcdc4f2c1b216140c19cec63d90c3aca4a663484d5f088da0cbca607
+system/bin/secure_storage_daemon
+5f7472a1541e5bf7f35a3f9108c2f205985aebbeb8e32e62314902e0b482390c
+system/bin/vold
+c4a1abb2a36158d61460724bfe53952f4bad0f642ecda31b58a483cc88467d34
+system/lib/libsec_ode_pbkdf.so
+0b43c1385f26bef7239907c98642e5fc89b83545eccd997647174d57275584e6
+system/bin/keystore
+f67605b26cfaa6db4b847a4c624ed0476e6028fdc00a6c3652f96a17e9132dd3
+system/bin/gatekeeperd
+06c56a59cc2418d4c8e93545194224b693397311f2c3dae007fea86faed344a8
+system/lib/libsoftkeymaster.so
+e01544cef94154ee25678a27664f8e0a6a740b2a3c540d019ae15849f5453968
+system/lib/libkeystore_binder.so
+81a775b0e1b558b49e2186a9c2f283d84e8bebe85b7a813828e97d38afdffe18
+system/vendor/lib/libsecure_storage.so
+39efeebb7c9e94350ea8d592d8420a217e69828918e56a21f006d7736f441203
+system/vendor/lib/libsecure_storage_jni.so
+f1ef9ba2276f43702827fc1e665cc51f553dbe4a45bee1bdf0e4d91ca923a63f
+system/bin/charon
+cb8e9eef6f92c57b7f2aa4c96ef6d86f3becd73a32337f6e3198f990966c19ce
+system/bin/sdp_cryptod
+76195e8cc70b15f62e4b32022228c3475274bb2b7012e08fa37043d6dce43c9c
+system/lib/libknox_km.so
+42331058fb6b48bbe9064b253180c623830cdf089fd094af066f16a543cb6be3
+system/lib/libsdp_crypto.so
+410efc59272726dc52d3ddcbc4e67bf5921e166382db9af7cb300a5e77e2b6b8
+system/lib/libsdp_kekm.so
+35612907fa25bdfa82f759a741b6c7e510fee30ec2b06517815b518dabc4aac7
+system/lib/libsdp_sdk.so
+0fcf2911e11864eae6e99925f172edcaec88753e10e1645570ca372c4cc8876d
+system/vendor/bin/hw/wpa_supplicant
+e6fb4c018ca4b32e35b98b9ba9a26e307e6f5f22d8fc1d031005aa70419d20c1
+system/vendor/bin/hw/macloader
+cbd7929cd391ba5188c8a840699404d130047a80181648fa168418d2fbe4054a
+system/vendor/bin/hw/mfgloader
+c6f6bf6b23f21988735a6875302d0855e81135c4016716d8ece1179754a3b28f
+system/bin/wlandutservice
+dadf7a2606cd28780a76bec8d6ea1505882027346802a8e505aba669b8f5e7c5
+:SYSSCOPE
+Number of modules
+1
+system/app/SysScope/SysScope.apk
+f3192b3e4758811733186dade33b09a5e04546ce6beb072436c6fdd07f252727
+Mn³gÏIëœ×8±Ø‰ý È¯<š6	¾9Z¾¹Nµ!^ÓË)5øyýˆ<üöÃé$…à*Î†"Ôc(ï8?9ÒSŒ[D~=3Ôè“~a`ÅÕqkÒZ—1îºˆÉ¢xìw½FôS,‘UÝNv3QkÂáÍdT86›Ä¼ÿÞéÞža‡ÊN;/òÈ×o¼.E-óî!òÐ/Ð(tàS,g=w ñÄñã¼üÀÂ[;È¿otý7BoÁh`Œ`¶ãD!“¿6Äd
+¯³éfÒ<]Øëõˆ×eê¬¶·’<WÂ­¹!%Kb©Å¢÷Æé	ÐËá})¼ù^G—6Ÿs"ŒR
